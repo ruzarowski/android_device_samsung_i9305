@@ -1,0 +1,26 @@
+[
+  {
+    "remote":       "github_main",
+    "repository":   "SlimRoms/device_samsung_smdk4412-common",
+    "target_path":  "device/samsung/smdk4412-common",
+    "revision":     "kk4.4"
+  },
+  {
+    "remote":       "github_main",
+    "repository":   "omnirom/android_device_samsung_smdk4412-qcom-common",
+    "target_path":  "device/samsung/smdk4412-qcom-common",
+    "revision":     "android-4.4"
+  },
+  {
+    "remote":       "github_main",
+    "repository":   "SlimRoms/hardware_samsung",
+    "target_path":  "hardware/samsung",
+    "revision":     "kk4.4"
+  },
+  {
+    "remote":       "github_main",
+    "repository":   "omnirom/android_kernel_samsung_smdk4412",
+    "target_path":  "kernel/samsung/smdk4412",
+    "revision":     "android-4.4"
+  }
+]
