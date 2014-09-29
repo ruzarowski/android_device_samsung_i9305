@@ -14,5 +14,4 @@
 # limitations under the License.
 #
 
-add_lunch_combo full_i9305-userdebug
-add_lunch_combo omni_i9305-userdebug
+add_lunch_combo slim_i9305-userdebug
