@@ -19,8 +19,8 @@
   },
   {
     "remote":       "github_main",
-    "repository":   "omnirom/android_kernel_samsung_smdk4412",
+    "repository":   "andip71/boeffla-kernel-omnirom-s3",
     "target_path":  "kernel/samsung/smdk4412",
-    "revision":     "android-4.4"
+    "revision":     "boeffla"
   }
 ]
