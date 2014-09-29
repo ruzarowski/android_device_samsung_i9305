@@ -19,7 +19,7 @@
   },
   {
     "remote":       "github_main",
-    "repository":   "andip71/boeffla-kernel-omnirom-s3",
+    "repository":   "ruzarowski/boeffla-kernel-omnirom-s3",
     "target_path":  "kernel/samsung/smdk4412",
     "revision":     "boeffla"
   }
