@@ -72,3 +72,13 @@ DEVICE_RESOLUTION := 720x1280
 
 # Compatibility with pre-kitkat Sensor HALs
 SENSORS_NEED_SETRATE_ON_ENABLE := true
+
+# SaberMod
+TARGET_GCC_VERSION_EXP := 4.8
+TARGET_USE_O3 := true
+STRICT_ALIASING := true
+SUPPRES_UNUSED_WARNING := true
+OPT_MEMORY := true
+BOOT_ZIP_OUT_FILE := SlimKernel-$(TARGET_DEVICE)-$(PLATFORM_VERSION)-$(shell date +"%Y%m%d")
+RECOVERY_ZIP_OUT_FILE := SlimRecovery-$(TARGET_DEVICE)-$(shell date +"%Y%m%d")
+
