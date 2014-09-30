@@ -22,5 +22,11 @@
     "repository":   "ruzarowski/boeffla-kernel-omnirom-s3",
     "target_path":  "kernel/samsung/smdk4412",
     "branch":       "boeffla"
+  },
+  {
+    "remote":       "github_main",
+    "repository":   "AOSB/proprietary_vendor_samsung",
+    "target_path":  "vendor/samsung",
+    "branch":       "kitkat"
   }
 ]
