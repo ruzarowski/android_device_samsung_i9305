@@ -79,6 +79,6 @@ TARGET_USE_O3 := true
 STRICT_ALIASING := true
 SUPPRES_UNUSED_WARNING := true
 OPT_MEMORY := true
-BOOT_ZIP_OUT_FILE := SlimKernel-$(TARGET_DEVICE)-$(PLATFORM_VERSION)-$(shell date +"%Y%m%d")
-RECOVERY_ZIP_OUT_FILE := SlimRecovery-$(TARGET_DEVICE)-$(shell date +"%Y%m%d")
+BOOT_ZIP_OUT_FILE := SlimKernel-$(TARGET_DEVICE)-$(PLATFORM_VERSION)-$(shell date +"%Y%m%d%H%M%S")
+RECOVERY_ZIP_OUT_FILE := SlimRecovery-$(TARGET_DEVICE)-$(shell date +"%Y%m%d%H%M%S")
 
