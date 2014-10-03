@@ -81,4 +81,4 @@ SUPPRES_UNUSED_WARNING := true
 OPT_MEMORY := true
 BOOT_ZIP_OUT_FILE := SlimKernel-$(TARGET_DEVICE)-$(PLATFORM_VERSION)-$(shell date +"%Y%m%d%H%M%S")
 RECOVERY_ZIP_OUT_FILE := SlimRecovery-$(TARGET_DEVICE)-$(shell date +"%Y%m%d%H%M%S")
-
+BOARD_USE_BGRA_8888 := true
