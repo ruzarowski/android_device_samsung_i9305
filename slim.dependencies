@@ -1,21 +1,21 @@
 [
   {
     "remote":       "github_main",
-    "repository":   "CyanogenMod/android_device_samsung_smdk4412-common",
+    "repository":   "omnirom/android_device_samsung_smdk4412-common",
     "target_path":  "device/samsung/smdk4412-common",
-    "branch":       "cm-11.0"
+    "branch":       "android-4.4"
   },
   {
     "remote":       "github_main",
-    "repository":   "CyanogenMod/android_device_samsung_smdk4412-qcom-common",
+    "repository":   "omnirom/android_device_samsung_smdk4412-qcom-common",
     "target_path":  "device/samsung/smdk4412-qcom-common",
-    "branch":       "cm-11.0"
+    "branch":       "android-4.4"
   },
   {
     "remote":       "github_main",
-    "repository":   "CyanogenMod/android_hardware_samsung",
+    "repository":   "omnirom/android_hardware_samsung",
     "target_path":  "hardware/samsung",
-    "branch":       "cm-11.0"
+    "branch":       "android-4.4"
   },
   {
     "remote":       "github_main",
